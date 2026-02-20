@@ -80,6 +80,7 @@ Email: enguyenhuu@ucsd.edu
 
 ## 📈 GitHub Stats
 
-![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MokeyCodes&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MokeyCodes&layout=compact&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-gamma-ruby-23.vercel.app/api?username=MokeyCodes&show_icons=true&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats-gamma-ruby-23.vercel.app/api/top-langs/?username=MokeyCodes&layout=compact&hide_border=true" height="165" />
+</p>
