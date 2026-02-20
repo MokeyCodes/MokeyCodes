@@ -41,3 +41,11 @@ Production-ready Chrome extension that extracts job data from LinkedIn, Handshak
 
 LinkedIn: https://www.linkedin.com/in/ethannguyen-huu/  
 Email: enguyenhuu@ucsd.edu
+
+[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?logo=googlechrome)](https://chromewebstore.google.com/detail/papieahfnaoehbgnlaihbcipfgfboobk)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?logo=googlechrome&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth_2.0-000000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
