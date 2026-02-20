@@ -1,46 +1,72 @@
 # Ethan Nguyen-Huu
 
-CS (AI) @ UC San Diego  
+Computer Science (AI) @ UC San Diego — 4.0 GPA  
 Founder of JATS — Production Chrome Extension (OAuth + Google Sheets API)  
-Building practical browser-native software.
+Focused on building scalable, browser-native tools and AI-driven systems.
+
+---
 
 ## 🚀 Featured Project
 
 ### JATS — Job Application Tracking Chrome Extension
 
-Production-ready Chrome extension that extracts job data from LinkedIn, Handshake, and UCSD portals and logs it into a structured Google Sheet.
+Production-grade Chrome extension that extracts job data from LinkedIn, Handshake, and UCSD portals and logs it into structured Google Sheets.
 
-**Key Engineering Highlights**
+**Engineering Highlights**
 - Manifest V3 architecture
-- OAuth 2.0 authentication (Google Identity Services)
-- Google Sheets API integration
-- Automatic Sheet template generation (v1.1.0)
-- Structured DOM parsing + missing-data handling
-- Versioned releases (v1.0.0 → v1.1.0)
+- OAuth 2.0 authentication via Google Identity Services
+- Secure Google Sheets API integration
+- Automatic sheet template generation (v1.1.0)
+- Structured DOM parsing with missing-data handling
+- Versioned semantic releases (v1.0.0 → v1.1.0)
 
 🔗 Chrome Web Store: https://chromewebstore.google.com/detail/papieahfnaoehbgnlaihbcipfgfboobk  
-🔗 GitHub Repo: https://github.com/MokeyCodes/JATS
+🔗 GitHub Repository: https://github.com/MokeyCodes/JATS
 
-## 🛠 Tech Stack
+---
 
-- TypeScript
-- Next.js
-- Chrome Extensions (Manifest V3)
-- OAuth 2.0
-- REST APIs
-- Python (PyTorch)
+## 🧠 Selected Work
 
-## 🧠 Other Work
+### Minecraft Biome Classifier (ResNet-18, Transfer Learning)
 
-**Minecraft Biome Classifier (ResNet-18, Transfer Learning)**  
-- Fine-tuned pretrained ResNet-18 on 29 biome classes  
-- Achieved 84.54% private leaderboard accuracy  
-- Built reproducible training + evaluation pipeline in PyTorch
+- Fine-tuned pretrained ResNet-18 on 29 biome classes
+- Achieved 84.54% private leaderboard accuracy
+- Built reproducible PyTorch training + evaluation pipeline
+- Saved trained weights for downstream inference
+
+---
+
+## 🛠 Technical Stack
+
+**Languages**  
+TypeScript, Python, JavaScript, C++
+
+**Frontend & Systems**  
+Next.js, Chrome Extensions (Manifest V3)
+
+**APIs & Infra**  
+OAuth 2.0, REST APIs, Google Sheets API
+
+**Machine Learning**  
+PyTorch, Transfer Learning
+
+---
+
+## 🔎 Engineering Focus
+
+- Production-ready browser software
+- Secure API integrations & authentication flows
+- Applied machine learning systems
+- Clean architecture and versioned releases
+
+---
 
 ## 📫 Contact
 
 LinkedIn: https://www.linkedin.com/in/ethannguyen-huu/  
-Email: enguyenhuu@ucsd.edu
+Email: enguyenhuu@ucsd.edu  
+
+---
 
 [![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?logo=googlechrome)](https://chromewebstore.google.com/detail/papieahfnaoehbgnlaihbcipfgfboobk)
 
