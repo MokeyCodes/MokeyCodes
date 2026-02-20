@@ -75,3 +75,11 @@ Email: enguyenhuu@ucsd.edu
 ![OAuth2](https://img.shields.io/badge/OAuth_2.0-000000)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MokeyCodes&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MokeyCodes&layout=compact&hide_border=true)
