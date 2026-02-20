@@ -82,5 +82,5 @@ Email: enguyenhuu@ucsd.edu
 
 <p align="center">
   <img src="https://github-readme-stats-gamma-ruby-23.vercel.app/api?username=MokeyCodes&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats-gamma-ruby-23.vercel.app/api/top-langs/?username=MokeyCodes&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-gamma-ruby-23.vercel.app/api/top-langs/?username=MokeyCodes&layout=compact&hide_border=true&hide=Jupyter%20Notebook" height="165" />
 </p>
