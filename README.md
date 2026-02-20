@@ -24,7 +24,7 @@ Production-ready Chrome extension that extracts job data from LinkedIn, Handshak
 ## 🛠 Tech Stack
 
 - TypeScript
-- Next.js (if applicable) or React
+- Next.js
 - Chrome Extensions (Manifest V3)
 - OAuth 2.0
 - REST APIs
