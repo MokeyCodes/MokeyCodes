@@ -39,7 +39,6 @@ constraints to decouple goal-seeking behavior from safety enforcement.
 real-time quadratic programs (CVXPY) in a Python simulation with dynamic obstacles.
 - Identified and mitigated challenges in CLF-based direction computation and slack-variable tuning,
 improving controller reliability and interpretability.
-Software Engineer & Founder — JATS (Job Ap
 
 ---
 
