@@ -27,12 +27,19 @@ Production-grade Chrome extension that extracts job data from LinkedIn, Handshak
 
 ## 🧠 Selected Work
 
-### Minecraft Biome Classifier (ResNet-18, Transfer Learning)
+### Safety-Constrained Navigation with CBF-QP
 
-- Fine-tuned pretrained ResNet-18 on 29 biome classes
-- Achieved 84.54% private leaderboard accuracy
-- Built reproducible PyTorch training + evaluation pipeline
-- Saved trained weights for downstream inference
+- Evaluated CLF-CBF-QP vs. CBF-QP control frameworks for autonomous navigation, analyzing trade-offs in
+stability guarantees, tuning complexity, and control performance.
+- Selected a CBF-QP-based controller to simplify tuning and improve directional consistency, while maintaining
+robust real-time obstacle avoidance.
+- Designed a nominal tracking controller with a lookahead-point formulation, combined with CBF safety
+constraints to decouple goal-seeking behavior from safety enforcement.
+- Implemented and validated a CBF-QP controller by formulating affine safety constraints and solving
+real-time quadratic programs (CVXPY) in a Python simulation with dynamic obstacles.
+- Identified and mitigated challenges in CLF-based direction computation and slack-variable tuning,
+improving controller reliability and interpretability.
+Software Engineer & Founder — JATS (Job Ap
 
 ---
 
